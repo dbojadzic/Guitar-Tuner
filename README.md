@@ -5,5 +5,5 @@ Sarajevo, June 2017 By Dejan Aćimović and Damir Bojadžić
 
 Note recognition implemented using DTF.
 
-For a preview of how project looked like, check out the following link:
+For a preview of how the project looks, check out the following link:
 https://www.youtube.com/watch?v=95NYA376KpY
