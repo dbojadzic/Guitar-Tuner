@@ -4,7 +4,7 @@ A Guitar Tuner project made for frequency detection and correction using a FRDM-
 
 Embedded Systems Class, ETF Sarajevo, June 2017 By Dejan Aćimović (@DejanAcimovic) and Damir Bojadžić
 
-Note recognition implemented using DTF.
+Note recognition implemented using DFT.
 
 For a preview of how the project looks, check out the following link:
 https://www.youtube.com/watch?v=95NYA376KpY
